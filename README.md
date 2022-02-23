@@ -1,4 +1,4 @@
-# QEMU-on-iOS-
+# iQEMU
 Run Native QEMU on iOS
 
 ![qemuimage](https://user-images.githubusercontent.com/93073424/155318071-34bd6ccc-dfdc-4ee9-bf98-e4383d1df716.png)
