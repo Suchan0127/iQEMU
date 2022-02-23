@@ -98,7 +98,7 @@ If cpus are 4, sockets are 1, cores are 4, and threads are 4,
 Command should be ```-smp cpus=4,sockets=1,cores=4,threads=1```
 Again, make sure there are no space between different arguments.
 ### 8. Name
-```-name (name)````
+```-name (name)```
 Gives a VM a name 
 ### 9. Network
 ```-net (Netword_card)```
